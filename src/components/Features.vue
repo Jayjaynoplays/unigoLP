@@ -23,7 +23,7 @@
             class="info_1 aos-init aos-animate"
           >
             <div class="info_1--title">
-              <img src="../assets/number 1.svg" class="info_1--img" />
+              <img src="../assets/number 1.svg" class="info_1--img" alt="number 1" />
               <div style="margin-left: 1%; color: rgb(98, 98, 98)">
                 <h3>Tìm kiếm thông tin địa điểm</h3>
                 <p class="features__title--description">
